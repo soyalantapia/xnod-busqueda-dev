@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soyalantapia.github.io/xnod-busqueda-dev/sitemap.xml
