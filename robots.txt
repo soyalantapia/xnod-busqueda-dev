@@ -1,4 +1,7 @@
+# La busqueda se mudo a https://rrhh-postulaciones.onrender.com
+# Estas paginas redirigen alla y llevan noindex,follow: se dejan rastreables a proposito
+# para que el buscador vea la redireccion y consolide en el destino.
 User-agent: *
 Allow: /
 
-Sitemap: https://soyalantapia.github.io/xnod-busqueda-dev/sitemap.xml
+Sitemap: https://rrhh-postulaciones.onrender.com/sitemap.xml
